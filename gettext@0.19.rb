@@ -1,3 +1,5 @@
+# Based on https://github.com/Homebrew/homebrew-core/blob/master/Formula/gettext.rb
+
 class GettextAT019 < Formula
   desc "GNU internationalization (i18n) and localization (l10n) library"
   homepage "https://www.gnu.org/software/gettext/"
